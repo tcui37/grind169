@@ -16,3 +16,6 @@ class Solution:
             return permutations
 
         return phelp(0, [])
+
+
+[[3, 10], [6, 3], [1, 3]]
